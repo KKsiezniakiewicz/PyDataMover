@@ -1,5 +1,5 @@
 # Wersja 0.0.2
-# Dodano podstawową obsługę błędów
+# Wersja zmodyfikowana na SERWERZE
 
 try:
     print("Program csvmover działa poprawnie")
